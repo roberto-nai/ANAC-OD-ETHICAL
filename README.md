@@ -8,7 +8,7 @@
 Configuration directory with ```config.yml```.  
 
 #### open_data_anac
-Open Data to be copied in this directory for this experiment are available here: [https://bit.ly/4dkNMeQ](https://bit.ly/4dkNMeQ).  
+Open Data to be copied in this directory for starting the experiment are available here: [https://bit.ly/4dkNMeQ](https://bit.ly/4dkNMeQ).  
 
 #### stats
 Directory with procurements stats.
