@@ -7,6 +7,15 @@
 #### config
 Configuration directory with ```config.yml```.  
 
+#### maps_data
+Directory with Italian region heatmaps.  
+
+#### ml_plots
+Directory with ML results plots.  
+
+#### ml_results
+Directory with ML results.  
+
 #### open_data_anac
 Open Data to be copied in this directory for starting the experiment are available here: [https://bit.ly/4dkNMeQ](https://bit.ly/4dkNMeQ).  
 
