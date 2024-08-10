@@ -1,4 +1,4 @@
-# ANAC Open Data to Event Log
+# Machine learning in procurement with a view to equity
 
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.12-3776AB?logo=python)
 
